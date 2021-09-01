@@ -55,7 +55,6 @@ configure<span style="color:#d2cd86; ">(</span><span style="color:#b060b0; ">{</
     <span style="color:#b060b0; ">}</span>
   <span style="color:#b060b0; ">}</span>
 <span style="color:#b060b0; ">}</span>
-
 Vue<span style="color:#d2cd86; ">.</span>createApp<span style="color:#d2cd86; ">(</span>App<span style="color:#d2cd86; ">)</span><span style="color:#d2cd86; ">.</span>mount<span style="color:#d2cd86; ">(</span><span style="color:#02d045; ">'</span><span style="color:#00c4c4; ">#app</span><span style="color:#02d045; ">'</span><span style="color:#d2cd86; ">)</span>
 </pre>
 
